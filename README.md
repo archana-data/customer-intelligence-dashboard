@@ -219,29 +219,6 @@ Provides a customer-level table with metrics such as CustomerID, Segment, Cluste
 * **Microsoft Power BI:** Interactive dashboards and visual analytics.
 * **CSV:** Export and transfer of customer-level analytical results.
 
-*Only include tools in this list that were actually used in your project workflow.*
-
-## 📁 Suggested Repository Structure
-
-```text
-customer-intelligence-dashboard/
-│
-├── README.md
-├── data/
-│   └── customer_segments.csv
-├── notebooks/
-│   └── customer_segmentation.ipynb
-├── powerbi/
-│   └── Customer_Intelligence.pbix
-└── screenshots/
-    ├── overview.png
-    ├── segments.png
-    ├── clusters.png
-    └── customers.png
-```
-
-This is a suggested structure. Include only files you actually upload, and avoid committing the full raw dataset unless its license and repository size make that appropriate.
-
 ## 🚀 How to Explore the Project
 
 1. Download or clone this repository.
